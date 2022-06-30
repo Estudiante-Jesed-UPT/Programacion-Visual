@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: Roboto, sans-serif;
+}
+body {
+  height: 100vh;
+ 
+  align-items: center;
+  justify-content: center;
+  background-image: url(Estas-son-las-mejores-apps-de-fondos-de-pantalla-4K-y-QHD-para-2022.jpg);
+  background-position: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgba(250, 245, 245, 0.952);
+}
+.container {
+  width: 650px;
+  max-width: 100%;
+  margin: auto;
+  margin-top: 100px;
+  padding: 50px;
+  box-shadow: 0 0 20px 1px rgb(250, 246, 246); 
+  position: center;
+
+}
+
+.formulario__titulo {
+  text-align: auto;
+  margin-top: 0;
+  color: rgba(250, 243, 243, 0.966);
+}
+
+
+
